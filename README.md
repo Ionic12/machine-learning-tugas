@@ -1,9 +1,7 @@
 # Description
 
 <div align="justify">
-Kumpulan tugas-tugas machine learning menggunakan Python yang disebutkan di atas merujuk pada berbagai jenis tugas yang dapat dilakukan dalam domain machine learning.
-<br>
-
+Kumpulan tugas-tugas machine learning menggunakan Python yang disebutkan di atas merujuk pada berbagai jenis tugas yang dapat dilakukan dalam domain machine learning.<br>
 * Fitur Ekstraksi (Feature Extraction): Merupakan proses pengambilan fitur atau informasi yang relevan dari suatu dataset.
 * Regresi: Regresi digunakan untuk memprediksi nilai output yang bersifat kontinu berdasarkan inputan yang ada.
 * Naive Bayes: Merupakan algoritma klasifikasi probabilitas sederhana yang didasarkan pada teorema Bayes.
